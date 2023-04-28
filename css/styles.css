@@ -49,6 +49,17 @@
     font-size: 1.4rem;
     cursor:pointer;
 }
+p.section-tile {
+    color: #0032a0;
+    font-family: 'NiveaBold';
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.section-one {
+    padding: 2rem 0 0 2rem;
+    background-color: #ecf2ff;
+}
 p.btn-banner-mainlabel.hover-animate-right {
     animation: bounce3 1s;
 }
